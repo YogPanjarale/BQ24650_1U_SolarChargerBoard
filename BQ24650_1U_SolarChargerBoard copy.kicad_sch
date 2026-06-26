@@ -5630,7 +5630,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12d")
 		)
 		(instances
 			(project "BQ24650_1U_SolarChargerBoard copy"
@@ -7868,7 +7868,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12e")
 		)
 		(instances
 			(project "BQ24650_1U_SolarChargerBoard copy"
@@ -10065,7 +10065,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12f")
 		)
 		(instances
 			(project "BQ24650_1U_SolarChargerBoard copy"
@@ -10626,7 +10626,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd12c")
+			(uuid "66db934d-129b-4395-8e60-9e5d2c3cd130")
 		)
 		(instances
 			(project "BQ24650_1U_SolarChargerBoard copy"
